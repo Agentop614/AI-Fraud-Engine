@@ -1,0 +1,13 @@
+# Environments
+venv/
+__pycache__/
+
+# Secrets
+.env
+
+# Data and Databases
+data/
+mlflow.db
+
+# Mac system files (if applicable)
+.DS_Store
